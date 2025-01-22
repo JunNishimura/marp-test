@@ -28,11 +28,13 @@ class: chapter
 class: content
 -->
 
-# Marp とは
+![bg left:40% width:320px](https://picsum.photos/720?image=29)
 
-- Markdown Presentation Ecosystem
-  Markdown でプレゼン資料を作成するためのエコシステム
-- オープンソースで公開されている
+## 名前
+
+- 所属:
+- 最近の趣味:
+- 最近の悩み:
 
 ---
 
