@@ -1,0 +1,34 @@
+/* @theme custom */
+
+@import "default";
+
+footer {
+  /* right bottom */
+  /* position: absolute;
+  right: 0px;
+  bottom: 0px; */
+}
+
+section {
+  font-size: 28px;
+  color: #103846;
+  background-color: #bad7e9;
+  font-weight: 700;
+}
+
+section.title {
+  font-size: 52px;
+}
+
+section.chapter {
+  font-size: 36px;
+  background-color: #103846;
+  color: white;
+  text-align: center;
+}
+
+section.content h1 {
+  position: absolute;
+  top: 120px;
+  left: 100px;
+}
